@@ -1,0 +1,28 @@
+.info {
+    position: relative;
+    top: 250px;
+    left: 60px;
+    width: 500px;
+    color: whitesmoke;
+}
+
+.nav-link{
+    color: whitesmoke;
+}
+
+.nav-link:hover{
+    color: goldenrod;
+}
+
+video
+{
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    height: auto;
+    width: 100%;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -2;
+
+}
